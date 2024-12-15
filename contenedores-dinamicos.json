@@ -1,0 +1,59 @@
+{
+  "familia-cards": [
+    {
+      "lugar": "Alto la Viña",
+      "motivo": "Cumpleaños familiar",
+      "integrantes": "Ciro, Belén, Maxi, Rocio, Ana, Ivan, Lulu",
+      "año": 2022,
+      "imagen": "../imagenes/familia/familia-alto-la-vina.jpeg"
+    },
+    {
+      "lugar": "San Salvador de Jujuy",
+      "motivo": "Casamiento",
+      "integrantes": "Ciro, Belén, Maxi, Ana, Ivan, Andres",
+      "año": 2024,
+      "imagen": "../imagenes/familia/familia-casamiento.jpeg"
+    },
+    {
+      "lugar": "Cuesta del Lipan",
+      "motivo": "Vacaciones",
+      "integrantes": "Florencia, Belén, Fernando, Sergio, Ana, Ivan, Liliana",
+      "año": 2022,
+      "imagen": "../imagenes/familia/familia-cuesta-del-lipan.jpg"
+    }
+  ],
+  "hobbies-cards": [
+    {
+      "nombre": "Tejido",
+      "descripcion": "Tejido en Tricot",
+      "imagen": "../imagenes/hobbies/tejido-by-cozzy.jpeg"
+    },
+    {
+      "nombre": "Byakuren",
+      "descripcion": "Pertenezco al Grupo Byakuren y realizamos actividades de logistica",
+      "imagen": "../imagenes/hobbies/Byakuren.jpeg"
+    },
+    {
+      "nombre": "Accion Solidaria Sokka",
+      "descripcion": "Realizamos activades como limpieza de lugares, entrega de viandas y juntar y repartir alimentos",
+      "imagen": "../imagenes/hobbies/accion-solidaria-soka.jpeg"
+    }
+  ],
+  "turismo-cards": [
+    {
+      "lugar": "Paris",
+      "descripcion": "Torre Eiffel",
+      "imagen": "../imagenes/turismo/paris.jpeg"
+    },
+    {
+      "lugar": "Londres",
+      "descripcion": "Recorrido por el museo Britanico",
+      "imagen": "../imagenes/turismo/codigo-de-hammurabi.jpg"
+    },
+    {
+      "lugar": "Madrid",
+      "descripcion": "Viviendo en Madrid",
+      "imagen": "../imagenes/turismo/palacio-de-cristal-del-retiro.jpg"
+    }
+  ]
+}
