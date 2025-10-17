@@ -87,3 +87,4 @@ document.addEventListener("DOMContentLoaded", () => {
     // Validación inicial sin mostrar errores
     validateForm();
 });
+//necesito limpiar cada vez que reinicio y arreglar algunos temas de la validacion
