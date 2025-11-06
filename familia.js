@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const card = document.createElement("div");
                     card.className = "card3";
 
-                    // Construimos la tarjeta con las propiedades según el targetId
+                    // Construye la tarjeta con las propiedades según el targetId
                     if (targetId === "familia-cards") {
                         card.innerHTML = `
                             <img src="${item.imagen}" alt="${item.lugar}">
