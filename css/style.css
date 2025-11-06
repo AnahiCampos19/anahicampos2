@@ -454,6 +454,21 @@ div.dark-mode-container{
 
 
 
+<<<<<<< HEAD
+=======
+    .card3 {
+        padding: 15px; 
+    }
+
+    .card3 h3 {
+        font-size: 1.2em; 
+    }
+
+    .card3 p {
+        font-size: 0.9em; 
+    }
+}
+>>>>>>> 18cc066ab87352ac8221bceb29016d2d712a8b49
 /*validacion**********************************************************************************************/
 
 .error {
